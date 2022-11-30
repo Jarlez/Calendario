@@ -1,1 +1,3 @@
-# Calend-rio
+# Calendário
+Em produção... 
+Caledário utilizando HTML5, CSS3 e JavaScript
